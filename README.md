@@ -9,7 +9,7 @@
 * [**Práctica 2**](https://github.com/MatiasGuaymas/MAT3/blob/main/Resoluciones/Practica%202%20-%20Resolucion.pdf)
 * [**Práctica 3**](https://github.com/MatiasGuaymas/MAT3/blob/main/Resoluciones/Practica%203%20-%20Resolucion.pdf)
 
-## [Fórmulas y Tablas](https://github.com/MatiasGuaymas/MAT3/tree/main/Formulas%20y%20Tablas)
+### [Fórmulas y Tablas](https://github.com/MatiasGuaymas/MAT3/tree/main/Formulas%20y%20Tablas)
 
 ## Cómo contribuir
 * Darle estrella (Star) al repositorio.
